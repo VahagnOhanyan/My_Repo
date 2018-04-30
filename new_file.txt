@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-asdfasdfasdfsdfsaf
-=======
-xffsdfsaf
->>>>>>> message
-=======
-dfgsdfgsdfgsdfgsxffsdfsaf
->>>>>>> message
