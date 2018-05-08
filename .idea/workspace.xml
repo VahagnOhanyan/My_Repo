@@ -11,7 +11,7 @@
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_CONgit FLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
@@ -109,7 +109,43 @@
             <path>
               <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
               <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="dataSources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="RestFulWS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RestFulWS" type="b2602c69:ProjectViewProjectNode" />
@@ -274,12 +310,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525629803306</updated>
       <workItem from="1525629806327" duration="7185000" />
-      <workItem from="1525726979455" duration="1936000" />
+      <workItem from="1525726979455" duration="2184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9121000" />
+    <option name="totallyTimeSpent" value="9369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -387,6 +423,9 @@
           <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
